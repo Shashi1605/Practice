@@ -1,2 +1,2 @@
 # Practice
-For doing daily training practice.
+This project contain hello c++ program.
